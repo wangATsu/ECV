@@ -1,0 +1,13 @@
+useDynLib(ECV, .registration = TRUE)
+importFrom(Rcpp, evalCpp)
+
+export(pECV)
+export(generate_continuous_data)
+export(generate_count_data)
+export(generate_binary_data)
+export(pECV.miss)
+export(generate_continuous_data_miss)
+export(generate_count_data_miss)
+export(generate_binary_data_miss)
+export(estimate_C)
+export(estimate_C_binary)

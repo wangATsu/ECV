@@ -1,0 +1,27 @@
+Package: ECV
+Type: Package
+Title: Entrywise Splitting Cross-Validation to Determine the Number of Factors in Generalized Factor Models
+Version: 1.0.0
+Date: 2025-07-23
+Author: Zhijing Wang
+Maintainer: Zhijing Wang <wangzhijing@sjtu.edu.cn>
+Description: Implements  entrywise splitting cross-validation (ECV) and its penalized version (pECV) methods
+    for selecting the number of factors in generalized factor models. 
+License: GPL-3
+Encoding: UTF-8
+LazyData: true
+Depends: 
+    R (>= 3.5.0),
+    stats
+Imports: 
+    Rcpp (>= 1.0.0),
+    irlba
+Suggests:
+    mirtjml,
+    testthat (>= 3.0.0),
+    knitr,
+    rmarkdown
+LinkingTo: Rcpp, RcppArmadillo
+RoxygenNote: 7.3.2
+VignetteBuilder: knitr
+SystemRequirements: C++11
