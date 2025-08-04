@@ -2,7 +2,7 @@
 
 [![Lifecycle: stable](https://img.shields.io/badge/lifecycle-stable-brightgreen.svg)](https://lifecycle.r-lib.org/articles/stages.html#stable)
 [![License: GPL v3](https://img.shields.io/badge/License-GPLv3-blue.svg)](https://www.gnu.org/licenses/gpl-3.0)
-[![R-CMD-check](https://github.com/wangATsu/ECV/actions/workflows/R-CMD-check.yml/badge.svg?branch=main)](https://github.com/wangATsu/ECV/actions/workflows/R-CMD-check.yml)
+[![CRAN status](https://www.r-pkg.org/badges/version/ECV)](https://CRAN.R-project.org/package=ECV) 
 
 ## Overview
 
