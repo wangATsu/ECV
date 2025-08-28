@@ -30,9 +30,9 @@ install.packages("pECV")
 
 # Load the package
 library(pECV)
+、、、
 
-
-### From GitHub (development version)
+**### From GitHub (development version)**
 
 You can also install the development version of ECV from GitHub:
 
