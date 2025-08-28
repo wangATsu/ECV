@@ -2,13 +2,15 @@
 
 [![Lifecycle: stable](https://img.shields.io/badge/lifecycle-stable-brightgreen.svg)](https://lifecycle.r-lib.org/articles/stages.html#stable)
 [![License: GPL v3](https://img.shields.io/badge/License-GPLv3-blue.svg)](https://www.gnu.org/licenses/gpl-3.0)
-[![CRAN status](https://www.r-pkg.org/badges/version/ECV)](https://CRAN.R-project.org/package=ECV) 
+[![CRAN status](https://www.r-pkg.org/badges/version/pECV)](https://cran.r-project.org/package=pECV)
 
 ## Overview
 
 The **ECV** (Entrywise Splitting Cross-Validation) package provides data-driven methods for determining the number of factors in generalized factor models. It implements both standard ECV and penalized ECV (pECV) approaches.
 
 The package also handles missing data through `pECV.miss()` and provides data-driven estimation of the constraint constant C through `estimate_C()` functions.
+
+The package is now available on [CRAN](https://cran.r-project.org/package=pECV).
 
 ## Key Features
 
@@ -20,7 +22,19 @@ The package also handles missing data through `pECV.miss()` and provides data-dr
 
 ## Installation
 
-You can install the development version of ECV from GitHub:
+
+### From CRAN (stable version)
+
+```r
+install.packages("pECV")
+
+# Load the package
+library(pECV)
+
+
+### From GitHub (development version)
+
+You can also install the development version of ECV from GitHub:
 
 ```r
 # Install devtools if you haven't already
