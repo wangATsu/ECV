@@ -10,7 +10,8 @@ The **ECV** (Entrywise Splitting Cross-Validation) package provides data-driven 
 
 The package also handles missing data through `pECV.miss()` and provides data-driven estimation of the constraint constant C through `estimate_C()` functions.
 
-The package is now available on [CRAN](https://cran.r-project.org/package=pECV).
+The package is now available on [CRAN](https://cran.r-project.org/package=pECV) under the name **pECV** (to avoid a name conflict).  
+
 
 ## Key Features
 
@@ -22,6 +23,8 @@ The package is now available on [CRAN](https://cran.r-project.org/package=pECV).
 
 ## Installation
 
+The package is now available on [CRAN](https://cran.r-project.org/package=pECV) under the name **pECV** (to avoid a name conflict).  
+On GitHub, the development version is hosted under the repository name **ECV**.
 
 ### From CRAN (stable version)
 
