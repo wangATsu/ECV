@@ -2,7 +2,7 @@
 
 [![Lifecycle: stable](https://img.shields.io/badge/lifecycle-stable-brightgreen.svg)](https://lifecycle.r-lib.org/articles/stages.html#stable)
 [![License: GPL v3](https://img.shields.io/badge/License-GPLv3-blue.svg)](https://www.gnu.org/licenses/gpl-3.0)
-[![CRAN status](https://www.r-pkg.org/badges/version/pECV)](https://CRAN.R-project.org/package=pECV)
+[![CRAN status](https://www.r-pkg.org/badges/version/pECV)](https://cran.r-project.org/package=pECV)
 [![](https://cranlogs.r-pkg.org/badges/grand-total/pECV?color=orange)](https://cran.r-project.org/package=pECV)
 
 ## Overview
